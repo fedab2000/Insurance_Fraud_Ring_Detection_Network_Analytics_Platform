@@ -1,0 +1,6 @@
+fraud_ring_id,ring_type,num_claims,fraud_claims,fraud_rate,total_claim_amount,fraud_claim_amount,main_connector,description
+RING_1,Suspicious Auto Insurance Network,13,13,1.0,504266,504266,REP_006882,"Synthetic suspicious network with shared repair shop, broker, tow company, address, phone, and selected shared clinic/lawyer/witness links."
+RING_2,Suspicious Auto Insurance Network,50,32,0.64,1430239,1174696,REP_006929,"Synthetic suspicious network with shared repair shop, broker, tow company, address, phone, and selected shared clinic/lawyer/witness links."
+RING_3,Suspicious Auto Insurance Network,24,19,0.79,730078,680872,REP_007087,"Synthetic suspicious network with shared repair shop, broker, tow company, address, phone, and selected shared clinic/lawyer/witness links."
+RING_4,Suspicious Auto Insurance Network,41,39,0.95,1391057,1370152,REP_007167,"Synthetic suspicious network with shared repair shop, broker, tow company, address, phone, and selected shared clinic/lawyer/witness links."
+RING_5,Suspicious Auto Insurance Network,6,3,0.5,148591,130280,REP_007298,"Synthetic suspicious network with shared repair shop, broker, tow company, address, phone, and selected shared clinic/lawyer/witness links."
